@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintNames\bin\Debug\PrintNames.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintNames\bin\Debug\PrintNames.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintNames\bin\Debug\PrintNames.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintNames\obj\Debug\PrintNames.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintNames\obj\Debug\PrintNames.pdb
