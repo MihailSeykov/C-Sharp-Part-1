@@ -1,12 +1,19 @@
 ﻿using System;
+using System.Text;
 
 
-    class IsoscelesTriangle
+class IsoscelesTriangle
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            char symbol = '\u00A9';
-            Console.WriteLine(symbol);
-        }
+        Console.OutputEncoding = Encoding.Unicode;
+        char symbol = '\u00A9';
+
+        Console.WriteLine("   " + symbol);
+        Console.WriteLine("  " + symbol + " " + symbol);
+        Console.WriteLine(" " + symbol + "   " + symbol);
+        Console.WriteLine(symbol + " " + symbol + " " + symbol + " " + symbol);
+
     }
+}
 
