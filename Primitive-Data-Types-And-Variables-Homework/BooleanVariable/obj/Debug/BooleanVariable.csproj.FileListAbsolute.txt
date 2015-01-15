@@ -3,3 +3,6 @@ c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVaria
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.pdb
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.exe
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\BooleanVariable\obj\Debug\BooleanVariable.pdb

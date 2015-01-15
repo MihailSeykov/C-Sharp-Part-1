@@ -3,3 +3,6 @@ c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVaria
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

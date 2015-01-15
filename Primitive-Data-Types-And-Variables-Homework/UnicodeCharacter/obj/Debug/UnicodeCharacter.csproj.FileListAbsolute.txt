@@ -4,3 +4,6 @@ c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVaria
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

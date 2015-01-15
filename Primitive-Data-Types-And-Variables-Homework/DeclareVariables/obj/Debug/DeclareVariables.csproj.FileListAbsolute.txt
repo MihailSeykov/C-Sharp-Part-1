@@ -4,3 +4,6 @@ c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVaria
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
 c:\users\mihail\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-And-Variables-Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb
