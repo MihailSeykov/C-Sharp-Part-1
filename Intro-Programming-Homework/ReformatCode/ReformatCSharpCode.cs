@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Reformat the following C# code to make it readable according to the C# best practices for code formatting.
+
 class ReformatCSharpCode
 {
     static void Main()
