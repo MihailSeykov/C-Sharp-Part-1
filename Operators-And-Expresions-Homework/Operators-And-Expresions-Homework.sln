@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenIntegers", "OddOrEvenIntegers\OddOrEvenIntegers.csproj", "{75F0C4BD-6270-4EAD-9572-79751077F713}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddOrEvenIntegers", "OddOrEvenIntegers\01.OddOrEvenIntegers.csproj", "{75F0C4BD-6270-4EAD-9572-79751077F713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravitationOnTheMoon", "GravitationOnTheMoon\GravitationOnTheMoon.csproj", "{1EC8CBD4-9439-4C72-9272-0A3D35C2573E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GravitationOnTheMoon", "GravitationOnTheMoon\02.GravitationOnTheMoon.csproj", "{1EC8CBD4-9439-4C72-9272-0A3D35C2573E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DivideBy7And5", "DivideBy7And5\03.DivideBy7And5.csproj", "{46BD45F1-F465-40AF-B986-D9884F820C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RectanglesPerimeter", "RectanglesPerimeter\04.RectanglesPerimeter.csproj", "{EA23EBDC-506A-452F-8507-C734D066C7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ThirdDigit", "ThirdDigit\05.ThirdDigit.csproj", "{D221222E-9A2D-431E-A471-6C3074FDEF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FourDigitNumber", "FourDigitNumber\06.FourDigitNumber.csproj", "{1F0C8F6E-2140-4F73-B434-C7284E6DFBDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +27,22 @@ Global
 		{1EC8CBD4-9439-4C72-9272-0A3D35C2573E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC8CBD4-9439-4C72-9272-0A3D35C2573E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC8CBD4-9439-4C72-9272-0A3D35C2573E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BD45F1-F465-40AF-B986-D9884F820C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BD45F1-F465-40AF-B986-D9884F820C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BD45F1-F465-40AF-B986-D9884F820C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BD45F1-F465-40AF-B986-D9884F820C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA23EBDC-506A-452F-8507-C734D066C7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA23EBDC-506A-452F-8507-C734D066C7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA23EBDC-506A-452F-8507-C734D066C7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA23EBDC-506A-452F-8507-C734D066C7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D221222E-9A2D-431E-A471-6C3074FDEF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D221222E-9A2D-431E-A471-6C3074FDEF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D221222E-9A2D-431E-A471-6C3074FDEF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D221222E-9A2D-431E-A471-6C3074FDEF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0C8F6E-2140-4F73-B434-C7284E6DFBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0C8F6E-2140-4F73-B434-C7284E6DFBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0C8F6E-2140-4F73-B434-C7284E6DFBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0C8F6E-2140-4F73-B434-C7284E6DFBDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

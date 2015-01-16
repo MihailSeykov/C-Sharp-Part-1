@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\RectanglesPerimeter\bin\Debug\RectanglesPerimeter.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\RectanglesPerimeter\bin\Debug\RectanglesPerimeter.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\RectanglesPerimeter\bin\Debug\RectanglesPerimeter.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\RectanglesPerimeter\obj\Debug\RectanglesPerimeter.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\RectanglesPerimeter\obj\Debug\RectanglesPerimeter.pdb
