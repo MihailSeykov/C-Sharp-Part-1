@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Write a program that safely compares floating-point numbers (double) with precision eps = 0.000001.
 
 class ComparingFloats
 {
@@ -8,21 +9,12 @@ class ComparingFloats
 
 
         Console.Write("Enter the first number: ");
-        double num1 = 0;
-        num1 = Convert.ToDouble(Console.ReadLine());
+        double num1 = double.Parse(Console.ReadLine());
         Console.Write("Enter the second number: ");
-        double num2 = 0;
-        num2 = Convert.ToDouble(Console.ReadLine());
+        double num2 = double.Parse(Console.ReadLine());
         double eps = 0.000001;
-        if ((num1 - num2) < eps)
-        {
-            Console.WriteLine("True");
-        }
-        if ((num1 - num2) >= eps)
-        {
-            Console.WriteLine("False");
-        }
-
+        bool equal = Math.Abs(num1 - num2) < 0.000001;
+        Console.WriteLine(equal);
     }
 }
 
