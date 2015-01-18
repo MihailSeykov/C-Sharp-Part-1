@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\bin\Debug\Console-Input-Output-Homework.exe.config
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\bin\Debug\Console-Input-Output-Homework.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\bin\Debug\Console-Input-Output-Homework.pdb
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\obj\Debug\Console-Input-Output-Homework.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\Console-Input-Output-Homework\obj\Debug\Console-Input-Output-Homework.pdb

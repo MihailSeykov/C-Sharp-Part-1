@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\bin\Debug\CompanyInformation.pdb
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Console-Input-Output-Homework\CompanyInformation\obj\Debug\CompanyInformation.pdb
