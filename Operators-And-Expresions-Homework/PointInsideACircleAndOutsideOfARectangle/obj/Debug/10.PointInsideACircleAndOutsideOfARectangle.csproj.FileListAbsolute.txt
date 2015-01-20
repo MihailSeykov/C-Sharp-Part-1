@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\PointInsideACircleAndOutsideOfARectangle\obj\Debug\PointInsideACircleAndOutsideOfARectangle.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\PointInsideACircleAndOutsideOfARectangle\obj\Debug\PointInsideACircleAndOutsideOfARectangle.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.pdb
