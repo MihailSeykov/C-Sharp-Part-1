@@ -2,10 +2,9 @@
 
 //Write an expression that calculates trapezoid's area by given sides a and b and height h.
 
-
 class Trapezoids
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Enter a: ");
         double a = double.Parse(Console.ReadLine());
