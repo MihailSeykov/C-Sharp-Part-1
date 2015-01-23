@@ -1,3 +1,6 @@
 C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe.config
 C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.exe
 C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
