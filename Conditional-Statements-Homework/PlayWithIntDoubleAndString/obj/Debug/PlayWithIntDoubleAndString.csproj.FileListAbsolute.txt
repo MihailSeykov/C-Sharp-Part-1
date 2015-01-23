@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Conditional-Statements-Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb
