@@ -18,11 +18,21 @@ namespace FormattingNumbers
         {
             Console.Write("Enter the first number: ");
             int a = int.Parse(Console.ReadLine());
-            Console.Write("Enter the second number: ");
-            double b = double.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the third number: ");
-            double c = double.Parse(Console.ReadLine());
-
+            if (0 <= a && a <= 500)
+            {
+                Console.Write("Enter the second number: ");
+                double b = double.Parse(Console.ReadLine());
+                Console.Write("Enter the third number: ");
+                double c = double.Parse(Console.ReadLine());
+                Console.Write("{0:X}", a);
+                string binary = Convert.ToString(a, 2);
+                string twoDigitsPrecision = string.Format("{0:0.00}", b);
+                Console.Write("  |" + binary + "|  ");
+                Console.Write(twoDigitsPrecision);
+                string threeDigitsPrecision = string.Format("{0:0.000}", c);
+                Console.WriteLine("|" + threeDigitsPrecision + " |");
+            }
+            Console.WriteLine("Incorrect input number one!");
         }
     }
 }
