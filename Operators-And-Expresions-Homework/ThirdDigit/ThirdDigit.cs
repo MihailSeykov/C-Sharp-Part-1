@@ -7,16 +7,11 @@ class ThirdDigit
 {
     static void Main()
     {
-        Console.WriteLine("Write an integer: ");
+        Console.Write("Write an integer: ");
         int number = int.Parse(Console.ReadLine());
-        if ((number / 100) % 10 == 7)
-        {
-            Console.WriteLine("True!");
-        }
-        else
-        {
-            Console.WriteLine("False!");
-        }
+        bool thirdDigit = ((number / 100) % 10 == 7);
+        Console.WriteLine(thirdDigit);
+
     }
 }
 

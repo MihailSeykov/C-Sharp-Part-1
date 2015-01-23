@@ -9,7 +9,7 @@ class DivideBy7And5
     {
         Console.Write("Write an integer: ");
         int number = int.Parse(Console.ReadLine());
-        bool divide =number % 7 == 0 && number % 5 == 0;
+        bool divide = number % 7 == 0 && number % 5 == 0;
         Console.WriteLine(divide);
     }
 }

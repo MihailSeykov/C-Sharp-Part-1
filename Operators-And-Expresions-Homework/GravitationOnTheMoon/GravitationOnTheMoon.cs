@@ -5,7 +5,7 @@
 
 class GravitationOnTheMoon
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Enter a weight: ");
         double weight = double.Parse(Console.ReadLine());

@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Operators-And-Expresions-Homework\ModifyBit\obj\Debug\ModifyBit.pdb
