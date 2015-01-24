@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\obj\Debug\NotDivisibleByThreeAndSeven.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\obj\Debug\NotDivisibleByThreeAndSeven.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\NotDivisibleByThreeAndSeven\obj\Debug\NotDivisibleByThreeAndSeven.pdb
