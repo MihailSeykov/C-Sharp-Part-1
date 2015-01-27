@@ -10,10 +10,6 @@
             long digit = 0;
             for (long position = 1; position <= length; position++)
             {
-                if (number == 0)
-                {
-                    break;
-                }
                 digit = number % 10;
                 if (position % 2 == 0)
                 {
