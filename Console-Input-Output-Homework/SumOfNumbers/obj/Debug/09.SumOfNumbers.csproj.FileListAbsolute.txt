@@ -1,0 +1,3 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Console-Input-Output-Homework\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

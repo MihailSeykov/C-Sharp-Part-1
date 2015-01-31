@@ -1,6 +1,0 @@
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\bin\Debug\TheHorror.exe.config
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\bin\Debug\TheHorror.exe
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\bin\Debug\TheHorror.pdb
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\obj\Debug\TheHorror.exe
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\obj\Debug\TheHorror.pdb
-c:\users\mihail\documents\visual studio 2012\Projects\Exam-Preparation-6-December-2013-Morning\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
