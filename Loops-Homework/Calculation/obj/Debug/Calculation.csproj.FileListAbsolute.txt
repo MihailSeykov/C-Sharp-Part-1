@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\bin\Debug\Calculation.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\obj\Debug\Calculation.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\Calculation\obj\Debug\Calculation.pdb

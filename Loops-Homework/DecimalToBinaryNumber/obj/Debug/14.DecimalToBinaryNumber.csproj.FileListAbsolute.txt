@@ -1,0 +1,3 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

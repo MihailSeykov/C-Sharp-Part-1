@@ -1,0 +1,3 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\OddOrEvenProduct\bin\Debug\OddOrEvenProduct.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\OddOrEvenProduct\obj\Debug\OddOrEvenProduct.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\OddOrEvenProduct\obj\Debug\OddOrEvenProduct.pdb

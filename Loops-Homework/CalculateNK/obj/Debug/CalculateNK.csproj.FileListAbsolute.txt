@@ -1,0 +1,5 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\CalculateNK\bin\Debug\CalculateNK.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\CalculateNK\bin\Debug\CalculateNK.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\CalculateNK\bin\Debug\CalculateNK.pdb
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\CalculateNK\obj\Debug\CalculateNK.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\CalculateNK\obj\Debug\CalculateNK.pdb

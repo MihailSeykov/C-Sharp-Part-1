@@ -1,0 +1,3 @@
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\MinMaxSumAndAverage\bin\Debug\MinMaxSumAndAverage.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\MinMaxSumAndAverage\obj\Debug\MinMaxSumAndAverage.exe
+C:\Users\Mihail\Documents\Visual Studio 2012\Projects\Loops-Homework\MinMaxSumAndAverage\obj\Debug\MinMaxSumAndAverage.pdb
