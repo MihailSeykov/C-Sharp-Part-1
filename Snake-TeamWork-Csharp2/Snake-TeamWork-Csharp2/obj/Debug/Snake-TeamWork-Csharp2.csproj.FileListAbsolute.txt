@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\bin\Debug\Snake-TeamWork-Csharp2.exe.config
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\bin\Debug\Snake-TeamWork-Csharp2.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\bin\Debug\Snake-TeamWork-Csharp2.pdb
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\obj\Debug\Snake-TeamWork-Csharp2.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\obj\Debug\Snake-TeamWork-Csharp2.exe
+c:\users\mihail\documents\visual studio 2012\Projects\Snake-TeamWork-Csharp2\Snake-TeamWork-Csharp2\obj\Debug\Snake-TeamWork-Csharp2.pdb
